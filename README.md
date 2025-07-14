@@ -100,7 +100,7 @@ This project investigates the therapeutic potential of phytochemicals derived fr
 ---
 
 ## Conclusion
-This project successfully identifies phytochemicals from *Aloe barbadensis* and *Allium sativum* that show promising inhibitory interaction with the Monkeypox A42R protein. Compounds like **protoeruboside B** and **isoaloesin** exhibited strong docking and binding energy scores along with favorable pharmacokinetic properties. Further **in vitro/in vivo** experiments are needed for validation.
+This project successfully identifies phytochemicals from *Aloe barbadensis* and *Allium sativum* that show promising inhibitory interaction with the Monkeypox A42R protein. Compounds like **Sativoside B1** and **isoaloesin** exhibited strong docking and binding energy scores along with favorable pharmacokinetic properties. Further **in vitro/in vivo** experiments are needed for validation.
 
 ---
 
