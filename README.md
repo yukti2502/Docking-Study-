@@ -69,12 +69,6 @@ This project investigates the therapeutic potential of phytochemicals derived fr
 | *Aloe barbadensis* | d-Tartaric acid        | −4.82                     |
 
 
-<img width="938" height="610" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/f90707e6-e0a0-4ff3-8db2-7175def37c0e" />
-<img width="918" height="625" alt="Screenshot (632)" src="https://github.com/user-attachments/assets/945c9927-1e31-4eee-9fdc-0b9798c0b540" />
-<img width="921" height="629" alt="Screenshot (633)" src="https://github.com/user-attachments/assets/dbaaa9c9-7e63-401a-89e0-67721edf685f" />
-<img width="884" height="527" alt="Screenshot (634)" src="https://github.com/user-attachments/assets/1a16de64-a821-4929-bcc9-d4edb95f6cfb" />
-<img width="932" height="702" alt="Screenshot (635)" src="https://github.com/user-attachments/assets/3234835f-d3df-429c-9c8b-fe6cc7d0c071" />
-
 ---
 
 ### 2. MM-GBSA Binding Energies
@@ -86,7 +80,12 @@ This project investigates the therapeutic potential of phytochemicals derived fr
 | Galactomannan         | Aloe barbadensis   | -35.87                     |
 | Isoaloesin            | Aloe barbadensis   | -31.49                     |
 
----
+<img width="550" height="550" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/55d9a7c7-1a8d-4c21-a6e4-6188409cb59c" />
+<img width="550" height="550" alt="Screenshot (632)" src="https://github.com/user-attachments/assets/58700628-aa84-4c70-9bbd-6701e1781e26" />
+<img width="550" height="550" alt="Screenshot (633)" src="https://github.com/user-attachments/assets/c256bfa8-0b35-41d3-beab-a12e4a3649d2" />
+<img width="550" height="550" alt="Screenshot (634)" src="https://github.com/user-attachments/assets/2ff9f874-3289-4607-8924-f2c46caf970e" />
+<img width="550" height="550" alt="Screenshot (635)" src="https://github.com/user-attachments/assets/aea09a95-f98c-4b51-96c9-c774da2580ab" />
+
 
 ### 3. ADME Results (via QikProp)
 
